@@ -23,6 +23,7 @@ Screenshot
 ----------
 ![Screenshot](http://i.imgur.com/dzFic.jpg)
 
+[Video](http://www.youtube.com/watch?feature=player_detailpage&v=1GwTRNmzyWc#t=73s)
 Status
 ------
 
