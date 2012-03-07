@@ -1,0 +1,26 @@
+# Output products list for <ghost_sprites>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+ghost_sprites.asy
+ghost_sprites.gise
+ghost_sprites.mif
+ghost_sprites.ngc
+ghost_sprites.sym
+ghost_sprites.v
+ghost_sprites.veo
+ghost_sprites.xco
+ghost_sprites.xise
+ghost_sprites_flist.txt
+ghost_sprites_ste\example_design\bmg_wrapper.vhd
+ghost_sprites_ste\example_design\ghost_sprites_top.ucf
+ghost_sprites_ste\example_design\ghost_sprites_top.vhd
+ghost_sprites_ste\example_design\ghost_sprites_top.xdc
+ghost_sprites_ste\implement\implement.sh
+ghost_sprites_ste\implement\planAhead_rdn.bat
+ghost_sprites_ste\implement\planAhead_rdn.sh
+ghost_sprites_ste\implement\planAhead_rdn.tcl
+ghost_sprites_ste\implement\xst.prj
+ghost_sprites_ste\implement\xst.scr
+ghost_sprites_xmdf.tcl
+summary.log

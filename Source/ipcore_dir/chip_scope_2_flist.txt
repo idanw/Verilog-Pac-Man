@@ -1,0 +1,14 @@
+# Output products list for <chip_scope_2>
+_xmsgs\pn_parser.xmsgs
+chip_scope_2.asy
+chip_scope_2.cdc
+chip_scope_2.gise
+chip_scope_2.ngc
+chip_scope_2.sym
+chip_scope_2.v
+chip_scope_2.veo
+chip_scope_2.xco
+chip_scope_2.xise
+chip_scope_2_flist.txt
+chip_scope_2_readme.txt
+chip_scope_2_xmdf.tcl

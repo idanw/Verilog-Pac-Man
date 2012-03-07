@@ -1,0 +1,26 @@
+# Output products list for <image2>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+image2.asy
+image2.gise
+image2.mif
+image2.ngc
+image2.sym
+image2.v
+image2.veo
+image2.xco
+image2.xise
+image2_flist.txt
+image2_ste\example_design\bmg_wrapper.vhd
+image2_ste\example_design\image2_top.ucf
+image2_ste\example_design\image2_top.vhd
+image2_ste\example_design\image2_top.xdc
+image2_ste\implement\implement.sh
+image2_ste\implement\planAhead_rdn.bat
+image2_ste\implement\planAhead_rdn.sh
+image2_ste\implement\planAhead_rdn.tcl
+image2_ste\implement\xst.prj
+image2_ste\implement\xst.scr
+image2_xmdf.tcl
+summary.log

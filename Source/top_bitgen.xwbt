@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\temp\Idan\Project\top.ncd
+OUTFILE=C:\temp\Idan\Project\top.bit
+FAMILY=Spartan3
+PART=xc3s1000-5ft256
+WORKINGDIR=C:\temp\Idan\Project
+LICENSE=ISE
+USER_INFO=__174135685_174135686_174419191

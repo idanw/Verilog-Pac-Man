@@ -1,0 +1,26 @@
+# Output products list for <map_sprite_mem>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+map_sprite_mem.asy
+map_sprite_mem.gise
+map_sprite_mem.mif
+map_sprite_mem.ngc
+map_sprite_mem.sym
+map_sprite_mem.v
+map_sprite_mem.veo
+map_sprite_mem.xco
+map_sprite_mem.xise
+map_sprite_mem_flist.txt
+map_sprite_mem_ste\example_design\bmg_wrapper.vhd
+map_sprite_mem_ste\example_design\map_sprite_mem_top.ucf
+map_sprite_mem_ste\example_design\map_sprite_mem_top.vhd
+map_sprite_mem_ste\example_design\map_sprite_mem_top.xdc
+map_sprite_mem_ste\implement\implement.sh
+map_sprite_mem_ste\implement\planAhead_rdn.bat
+map_sprite_mem_ste\implement\planAhead_rdn.sh
+map_sprite_mem_ste\implement\planAhead_rdn.tcl
+map_sprite_mem_ste\implement\xst.prj
+map_sprite_mem_ste\implement\xst.scr
+map_sprite_mem_xmdf.tcl
+summary.log

@@ -1,0 +1,13 @@
+run
+-ifmt VHDL
+-ent map_sprite_mem_top
+-p xc3s1000-ft256-5
+-ifn xst.prj
+-write_timing_constraints No
+-iobuf YES
+-max_fanout 100
+-ofn map_sprite_mem_top 
+-ofmt NGC
+-bus_delimiter ()
+-hierarchy_separator /
+-case Maintain

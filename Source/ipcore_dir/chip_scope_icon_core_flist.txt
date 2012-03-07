@@ -1,0 +1,13 @@
+# Output products list for <chip_scope_icon_core>
+_xmsgs\pn_parser.xmsgs
+chip_scope_icon_core.asy
+chip_scope_icon_core.gise
+chip_scope_icon_core.ngc
+chip_scope_icon_core.sym
+chip_scope_icon_core.v
+chip_scope_icon_core.veo
+chip_scope_icon_core.xco
+chip_scope_icon_core.xise
+chip_scope_icon_core_flist.txt
+chip_scope_icon_core_readme.txt
+chip_scope_icon_core_xmdf.tcl

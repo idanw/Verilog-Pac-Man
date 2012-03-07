@@ -1,0 +1,26 @@
+# Output products list for <map_collision_detect>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+map_collision_detect.asy
+map_collision_detect.gise
+map_collision_detect.mif
+map_collision_detect.ngc
+map_collision_detect.sym
+map_collision_detect.v
+map_collision_detect.veo
+map_collision_detect.xco
+map_collision_detect.xise
+map_collision_detect_flist.txt
+map_collision_detect_ste\example_design\bmg_wrapper.vhd
+map_collision_detect_ste\example_design\map_collision_detect_top.ucf
+map_collision_detect_ste\example_design\map_collision_detect_top.vhd
+map_collision_detect_ste\example_design\map_collision_detect_top.xdc
+map_collision_detect_ste\implement\implement.sh
+map_collision_detect_ste\implement\planAhead_rdn.bat
+map_collision_detect_ste\implement\planAhead_rdn.sh
+map_collision_detect_ste\implement\planAhead_rdn.tcl
+map_collision_detect_ste\implement\xst.prj
+map_collision_detect_ste\implement\xst.scr
+map_collision_detect_xmdf.tcl
+summary.log

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="X:/Desktop/EC551/Project/Project/t_map_controller_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="t_map_controller" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/t_map_controller/block_color" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">block_color[2:0]</obj_property>
+      <obj_property name="ObjectShortName">block_color[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/valid_dir" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">valid_dir[3:0]</obj_property>
+      <obj_property name="ObjectShortName">valid_dir[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x[9:0]</obj_property>
+      <obj_property name="ObjectShortName">x[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y[8:0]</obj_property>
+      <obj_property name="ObjectShortName">y[8:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/clk_25mhz" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_25mhz</obj_property>
+      <obj_property name="ObjectShortName">clk_25mhz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/clk_100mhz" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_100mhz</obj_property>
+      <obj_property name="ObjectShortName">clk_100mhz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/phase" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phase[1:0]</obj_property>
+      <obj_property name="ObjectShortName">phase[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/map_num" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">map_num[1:0]</obj_property>
+      <obj_property name="ObjectShortName">map_num[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/map_addr_a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">map_addr_a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">map_addr_a[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/map_addr_b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">map_addr_b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">map_addr_b[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/sprite_addr_a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sprite_addr_a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sprite_addr_a[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/sprite_addr_b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sprite_addr_b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">sprite_addr_b[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/tmp_vga_out_RB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tmp_vga_out_RB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">tmp_vga_out_RB[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/phase_resync_needed" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_resync_needed</obj_property>
+      <obj_property name="ObjectShortName">phase_resync_needed</obj_property>
+   </wvobject>
+   <wvobject fp_name="group39" type="group">
+      <obj_property name="label">Map</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/t_map_controller/uut/map/clka" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clka</obj_property>
+         <obj_property name="ObjectShortName">clka</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map/addra" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">addra[7:0]</obj_property>
+         <obj_property name="ObjectShortName">addra[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map/douta" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">douta[75:0]</obj_property>
+         <obj_property name="ObjectShortName">douta[75:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map/clkb" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clkb</obj_property>
+         <obj_property name="ObjectShortName">clkb</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map/addrb" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">addrb[7:0]</obj_property>
+         <obj_property name="ObjectShortName">addrb[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map/doutb" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">doutb[75:0]</obj_property>
+         <obj_property name="ObjectShortName">doutb[75:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group46" type="group">
+      <obj_property name="label">Map_Sprite</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/clka" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clka</obj_property>
+         <obj_property name="ObjectShortName">clka</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/addra" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">addra[7:0]</obj_property>
+         <obj_property name="ObjectShortName">addra[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/douta" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">douta[63:0]</obj_property>
+         <obj_property name="ObjectShortName">douta[63:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/clkb" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">clkb</obj_property>
+         <obj_property name="ObjectShortName">clkb</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/addrb" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">addrb[7:0]</obj_property>
+         <obj_property name="ObjectShortName">addrb[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/t_map_controller/uut/map_sprites_mem/doutb" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">doutb[63:0]</obj_property>
+         <obj_property name="ObjectShortName">doutb[63:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/t_map_controller/uut/sprite_num" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sprite_num[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sprite_num[3:0]</obj_property>
+   </wvobject>
+</wave_config>

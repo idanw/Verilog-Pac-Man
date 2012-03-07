@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="impact" timeStamp="Wed Nov 30 01:47:27 2011">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="b0d8617d54e449259e00f54300b9ef6a"/>
+<property name="ProjectIteration" value="1"/>
+</section>
+<section name="iMPACT Project Info" visible="true">
+<property name="Use Project File" value="No"/>
+<property name="Project Entry" value="ise"/>
+<property name="OS Name" value="Microsoft Windows 7 (64 Bit)"/>
+<property name="User Lic. Info" value="__174135685_174135686_174419191"/>
+</section>
+<section name="iMPACT One Step SVF File Mode" visible="true">
+<item name="Chain Summary">
+<property name="Number of device" value="2"/>
+<property name="Number of Xilinx device" value="2"/>
+<property name="Number of Non-Xilinx device" value="0"/>
+</item>
+<item name="Chain Description">
+<property name="Device1" value="spartan3"/>
+<property name="Part1" value="xc3s1000"/>
+<property name="Device2" value="xcf"/>
+<property name="Part2" value="xcf04s"/>
+</item>
+<item name="Boundary Scan Operations Statistics">
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+<property name="BSCAN Operation" value="Program -p 0
+"/>
+</item>
+<item name="Cable Summary">
+<property name="Cable Type" value="Parallel III"/>
+<property name="Cable Speed" value="200 KHz"/>
+<property name="Port" value="LPT1"/>
+<property name="Local_Server_Mode" value="Local"/>
+</item>
+</section>
+</application>
+</document>

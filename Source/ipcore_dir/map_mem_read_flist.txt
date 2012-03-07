@@ -1,0 +1,26 @@
+# Output products list for <map_mem_read>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+map_mem_read.asy
+map_mem_read.gise
+map_mem_read.mif
+map_mem_read.ngc
+map_mem_read.sym
+map_mem_read.v
+map_mem_read.veo
+map_mem_read.xco
+map_mem_read.xise
+map_mem_read_flist.txt
+map_mem_read_ste\example_design\bmg_wrapper.vhd
+map_mem_read_ste\example_design\map_mem_read_top.ucf
+map_mem_read_ste\example_design\map_mem_read_top.vhd
+map_mem_read_ste\example_design\map_mem_read_top.xdc
+map_mem_read_ste\implement\implement.sh
+map_mem_read_ste\implement\planAhead_rdn.bat
+map_mem_read_ste\implement\planAhead_rdn.sh
+map_mem_read_ste\implement\planAhead_rdn.tcl
+map_mem_read_ste\implement\xst.prj
+map_mem_read_ste\implement\xst.scr
+map_mem_read_xmdf.tcl
+summary.log

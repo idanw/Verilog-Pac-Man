@@ -1,0 +1,26 @@
+# Output products list for <movement_sprites>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+movement_sprites.asy
+movement_sprites.gise
+movement_sprites.mif
+movement_sprites.ngc
+movement_sprites.sym
+movement_sprites.v
+movement_sprites.veo
+movement_sprites.xco
+movement_sprites.xise
+movement_sprites_flist.txt
+movement_sprites_ste\example_design\bmg_wrapper.vhd
+movement_sprites_ste\example_design\movement_sprites_top.ucf
+movement_sprites_ste\example_design\movement_sprites_top.vhd
+movement_sprites_ste\example_design\movement_sprites_top.xdc
+movement_sprites_ste\implement\implement.sh
+movement_sprites_ste\implement\planAhead_rdn.bat
+movement_sprites_ste\implement\planAhead_rdn.sh
+movement_sprites_ste\implement\planAhead_rdn.tcl
+movement_sprites_ste\implement\xst.prj
+movement_sprites_ste\implement\xst.scr
+movement_sprites_xmdf.tcl
+summary.log

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="X:/Desktop/EC551/Project/Project/t_collision_detect_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="t_collision_detect" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/t_collision_detect/pacman_valid_moves" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pacman_valid_moves[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pacman_valid_moves[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost1_valid_moves" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost1_valid_moves[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost1_valid_moves[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost2_valid_moves" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost2_valid_moves[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost2_valid_moves[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost3_valid_moves" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost3_valid_moves[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost3_valid_moves[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost4_valid_moves" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost4_valid_moves[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost4_valid_moves[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/pacman_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pacman_x[5:0]</obj_property>
+      <obj_property name="ObjectShortName">pacman_x[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/pacman_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pacman_y[4:0]</obj_property>
+      <obj_property name="ObjectShortName">pacman_y[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost1_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost1_x[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost1_x[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost1_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost1_y[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost1_y[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost2_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost2_x[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost2_x[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost2_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost2_y[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost2_y[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost3_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost3_x[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost3_x[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost3_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost3_y[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost3_y[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost4_x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost4_x[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost4_x[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/ghost4_y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost4_y[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost4_y[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/clk_100mhz" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_100mhz</obj_property>
+      <obj_property name="ObjectShortName">clk_100mhz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/clk_100mhz_phase" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_100mhz_phase[1:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_100mhz_phase[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/pacman_valid_moves_tmp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pacman_valid_moves_tmp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pacman_valid_moves_tmp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/ghost1_valid_moves_tmp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost1_valid_moves_tmp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost1_valid_moves_tmp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/ghost2_valid_moves_tmp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost2_valid_moves_tmp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost2_valid_moves_tmp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/ghost3_valid_moves_tmp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ghost3_valid_moves_tmp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ghost3_valid_moves_tmp[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_detect/addra" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addra[6:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_detect/douta" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">douta[75:0]</obj_property>
+      <obj_property name="ObjectShortName">douta[75:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_detect/addrb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrb[6:0]</obj_property>
+      <obj_property name="ObjectShortName">addrb[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_detect/doutb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">doutb[75:0]</obj_property>
+      <obj_property name="ObjectShortName">doutb[75:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_addr_a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">collision_addr_a[6:0]</obj_property>
+      <obj_property name="ObjectShortName">collision_addr_a[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/t_collision_detect/uut/collision_addr_b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">collision_addr_b[6:0]</obj_property>
+      <obj_property name="ObjectShortName">collision_addr_b[6:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,4 @@
+verilog work "quad_pump.v"
+verilog work "ipcore_dir/map_mem_read.v"
+verilog work "map_controller.v"
+verilog work "C:/Xilinx/13.2/ISE_DS/ISE//verilog/src/glbl.v"

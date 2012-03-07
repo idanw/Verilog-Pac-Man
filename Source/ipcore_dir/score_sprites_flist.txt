@@ -1,0 +1,26 @@
+# Output products list for <score_sprites>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+score_sprites.asy
+score_sprites.gise
+score_sprites.mif
+score_sprites.ngc
+score_sprites.sym
+score_sprites.v
+score_sprites.veo
+score_sprites.xco
+score_sprites.xise
+score_sprites_flist.txt
+score_sprites_ste\example_design\bmg_wrapper.vhd
+score_sprites_ste\example_design\score_sprites_top.ucf
+score_sprites_ste\example_design\score_sprites_top.vhd
+score_sprites_ste\example_design\score_sprites_top.xdc
+score_sprites_ste\implement\implement.sh
+score_sprites_ste\implement\planAhead_rdn.bat
+score_sprites_ste\implement\planAhead_rdn.sh
+score_sprites_ste\implement\planAhead_rdn.tcl
+score_sprites_ste\implement\xst.prj
+score_sprites_ste\implement\xst.scr
+score_sprites_xmdf.tcl
+summary.log

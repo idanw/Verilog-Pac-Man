@@ -1,0 +1,25 @@
+# Output products list for <map_temp_store>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+map_temp_store.asy
+map_temp_store.gise
+map_temp_store.ngc
+map_temp_store.sym
+map_temp_store.v
+map_temp_store.veo
+map_temp_store.xco
+map_temp_store.xise
+map_temp_store_flist.txt
+map_temp_store_ste\example_design\bmg_wrapper.vhd
+map_temp_store_ste\example_design\map_temp_store_top.ucf
+map_temp_store_ste\example_design\map_temp_store_top.vhd
+map_temp_store_ste\example_design\map_temp_store_top.xdc
+map_temp_store_ste\implement\implement.sh
+map_temp_store_ste\implement\planAhead_rdn.bat
+map_temp_store_ste\implement\planAhead_rdn.sh
+map_temp_store_ste\implement\planAhead_rdn.tcl
+map_temp_store_ste\implement\xst.prj
+map_temp_store_ste\implement\xst.scr
+map_temp_store_xmdf.tcl
+summary.log
