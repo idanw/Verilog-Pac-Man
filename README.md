@@ -27,21 +27,21 @@ Status
 ------
 
 Supported Functionality:
-* Smooth movement mimicing the original gameplay
-* Graphics mimicing the original, including having ghosts "look" in the correct direction
-* Eating pellets and incriminating the score
-* Basic Ghost AI (with two separate AI personalities)
-* Collision detection between ghosts and Pac-Man and death animation
-* 2 maps
-* Controlling a ghost as a second player
-* Background effects!
+ * Smooth movement mimicing the original gameplay
+ * Graphics mimicing the original, including having ghosts "look" in the correct direction
+ * Eating pellets and incriminating the score
+ * Basic Ghost AI (with two separate AI personalities)
+ * Collision detection between ghosts and Pac-Man and death animation
+ * 2 maps
+ * Controlling a ghost as a second player
+ * Background effects!
 
 Functionality not supported includes, but is not limited to:
-* Eating ghosts when Pac-Man eats a big pellet (although graphics for this should already be done).
-* Automatically switching maps after finishing the level
-* Bonus items (i.e. fruits)
-* Sound
-* Advanced ghost AI
+ * Eating ghosts when Pac-Man eats a big pellet (although graphics for this should already be done).
+ * Automatically switching maps after finishing the level
+ * Bonus items (i.e. fruits)
+ * Sound
+ * Advanced ghost AI
 
 Implementation
 --------------
@@ -55,17 +55,17 @@ Usage
 -----
 
 Plug in a VGA monitor and a PS/2 keyboard. The controls are as follows:
-* Up/Down/Left/Right: Control Pac-Man
-* Escape: Stop Pac-Man motion
-* 1, 2: Enable some background effects
-* 3, 4: Switch between the two maps. Note that this will reset all dots eaten
-* 9,0,-,=: More effects, namely some images we loaded in to try and fill up the available BlockRAMs
+ * Up/Down/Left/Right: Control Pac-Man
+ * Escape: Stop Pac-Man motion
+ * 1, 2: Enable some background effects
+ * 3, 4: Switch between the two maps. Note that this will reset all dots eaten
+ * 9,0,-,=: More effects, namely some images we loaded in to try and fill up the available BlockRAMs
 
-* F1,F2,F3,F4: Enable Ghosts 1-4 AI Control
-* F5,F6,F7,F8: Disable Ghosts 1-4 AI Control
+ * F1,F2,F3,F4: Enable Ghosts 1-4 AI Control
+ * F5,F6,F7,F8: Disable Ghosts 1-4 AI Control
 
 When Ghost 1's AI is disabled:
-* I, J, K, L: Control Ghost 1 movement Manually
+ * I, J, K, L: Control Ghost 1 movement Manually
 
 Additional Notes
 ----------------
